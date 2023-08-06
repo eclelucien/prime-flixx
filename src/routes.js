@@ -7,10 +7,10 @@ function RoutesApp(){
     return(
         <BrowserRouter>
             <Routes>
-                
                 <Route path='/' element={ <Home/> }/>
                 <Route path='/filme/:id' element={ <Filme/> }/>
             </Routes>
         </BrowserRouter>
     )
 }
+export default RoutesApp;
