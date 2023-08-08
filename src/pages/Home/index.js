@@ -4,7 +4,7 @@ function Home(){
     return (
         <div>
             <h1>
-                Welcome...
+                Welcome to the home screen...
             </h1>
         </div>
     )

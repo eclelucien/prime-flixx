@@ -2,7 +2,7 @@ function Filme(){
     return (
         <div>
             <h1>
-                Bem vin a pagina detalhes do Filme.
+                Welcome to the film screen.
             </h1>
         </div>
     )
