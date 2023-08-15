@@ -10,13 +10,12 @@ function Home(){
         async function loadFilmes(){
             const response = await api.get("movie/now_playing", {
                 params:{
-                    api_key: "b5598d298b1080f63e71b57690a0bb28",
+                    api_key: "b5598d298b1080f63e71b57690a0bb28", 
                     language: "pt-BR",
                     page: 1
                 }
-            })
 
-            console.log(response);
+            })
             setFilmes(response.data.results.slice(0, 10))
         }
 
