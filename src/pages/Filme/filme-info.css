@@ -36,4 +36,19 @@
     padding: 12px;
     border-radius: 4px;
     cursor: pointer;
+    transition: all 0.5s;
+}
+
+.area-buttons button:hover{
+    background-color: brown;
+    color: #FFF;
+}
+
+.area-buttons a{
+    text-decoration: none;
+    color: #000;
+}
+
+.area-buttons a:hover{
+    color: #FFF;
 }
