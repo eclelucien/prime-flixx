@@ -14,7 +14,7 @@ function Home(){
                 params:{
                     api_key: "b5598d298b1080f63e71b57690a0bb28", 
                     language: "pt-BR",
-                    page: 1
+                    page: 2
                 }
 
             })
