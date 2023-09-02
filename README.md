@@ -1,8 +1,8 @@
-# MovieHub - A Movie Listing and Favorites App
+# Prime-flixx - A Movie Listing and Favorites App
 
-MovieHub is a web application that allows users to browse and interact with movie data from The Movie Database (TMDb) API. Users can view a list of movies on the home page, click on a movie to see its details, add movies to their favorites, and view their favorite movies on a dedicated favorites page.
+Prime-flixx is a web application that allows users to browse and interact with movie data from The Movie Database (TMDb) API. Users can view a list of movies on the home page, click on a movie to see its details, add movies to their favorites, and view their favorite movies on a dedicated favorites page.
 
-![MovieHub Screenshot](/path/to/screenshot.png)
+![Prime-flixx Screenshot](/path/to/screenshot.png)
 
 ## Table of Contents
 
