@@ -42,8 +42,7 @@ Before you start, make sure you have the following installed on your machine:
 
 ## Change to the project directory:
 
-
-    ```shell
+    ```
     cd prime-flixx
 
 
