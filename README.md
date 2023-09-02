@@ -24,8 +24,7 @@ Prime-flixx is a web application that allows users to browse and interact with m
 - Click on a movie to view its details, including title, overview, release date, and more.
 - Add movies to your favorites list.
 - View your favorite movies on a dedicated favorites page.
-- Search for movies by title or keywords.
-- Responsive design for mobile and desktop.
+
 
 ## Getting Started
 
