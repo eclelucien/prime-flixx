@@ -15,10 +15,6 @@ Prime-flixx is a web application that allows users to browse and interact with m
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Configuration](#configuration)
-- [Usage](#usage)
-- [API Usage](#api-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
