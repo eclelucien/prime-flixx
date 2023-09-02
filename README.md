@@ -1,12 +1,14 @@
 # Prime-flixx - A Movie Listing and Favorites App in React JS
 
 # Home Page:
-![Screenshot from 2023-09-01 23-48-47](https://github.com/eclelucien/prime-flixx/assets/56320433/db032de8-29d9-4c2e-8d52-338511c07c2a)
+![Screenshot from 2023-09-01 23-48-47](https://github.com/eclelucien/prime-flixx/assets/56320433/fdd6801d-52e1-4e22-b471-7f86d6b76322)
+
 
 Prime-flixx is a web application that allows users to browse and interact with movie data from The Movie Database (TMDb) API. Users can view a list of movies on the home page, click on a movie to see its details, add movies to their favorites, and view their favorite movies on a dedicated favorites page.
 
 # Detail page:
-![Screenshot from 2023-09-01 23-49-22](https://github.com/eclelucien/prime-flixx/assets/56320433/037fc226-f6c9-4ff6-98de-a04401019f79)
+![Screenshot from 2023-09-01 23-49-22](https://github.com/eclelucien/prime-flixx/assets/56320433/fc0ab384-7d2b-4743-8ac7-fa7b362ccae8)
+
 
 ## Table of Contents
 
