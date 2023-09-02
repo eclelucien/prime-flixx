@@ -40,7 +40,7 @@ Before you start, make sure you have the following installed on your machine:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/moviehub.git
+   git clone https://github.com/eclelucien/moviehub.git
 
 ## Change to the project directory:
 
