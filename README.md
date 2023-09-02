@@ -1,4 +1,4 @@
-# Prime-flixx - A Movie Listing and Favorites App
+# Prime-flixx - A Movie Listing and Favorites App in React JS
 
 # Home Page:
 ![Screenshot from 2023-09-01 23-48-47](https://github.com/eclelucien/prime-flixx/assets/56320433/db032de8-29d9-4c2e-8d52-338511c07c2a)
