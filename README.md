@@ -42,12 +42,15 @@ Before you start, make sure you have the following installed on your machine:
 
 ## Change to the project directory:
 
-    ```cd moviehub
+
+    ```shell
+    cd prime-flixx
 
 
 ## Install the project dependencies:
 
-    ```npm install
+    ```
+    npm install
 
 ## Configuration
 
