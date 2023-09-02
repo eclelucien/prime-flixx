@@ -24,7 +24,11 @@
     border-radius: 4px;
 }
 
-.lista-filmes strong{
+.lista-filmes .title{
+    height: 50px;
+}
+
+.lista-filmes .title strong{
     margin-bottom: 14px;
     text-align: center;
     font-size: 22px;

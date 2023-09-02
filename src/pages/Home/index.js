@@ -65,7 +65,7 @@ function Home() {
           {filmes.map((filme) => {
             return (
               <article key={filme.id}>
-                <strong>{filme.title} </strong>
+                <div className='title'><strong>{filme.title} </strong></div>
                 <img
                   src={`https://image.tmdb.org/t/p/original/${filme.poster_path}`}
                   alt={filme.title}
